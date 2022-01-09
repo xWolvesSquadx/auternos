@@ -18,6 +18,8 @@ This script kills any instance of Chromium (or if you're on Windows, it kills 'c
 Chromium-based browsers require [chromedriver](https://sites.google.com/a/chromium.org/chromedriver/) for this script to work. Make sure you have that properly set up. macOS users can do 
 `brew cask install chromedriver` via [brew](https://brew.sh/).
 
+Thanks to [ddomino007](https://github.com/ddomino007) for the [pull request to add support for captchas](https://github.com/doookkie/auternos/pull/5)
+
 ## Really the guide now
 
 Download the repo either from https://github.com/hipeopeo/auternos/archive/master.zip, or
