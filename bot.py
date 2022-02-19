@@ -15,4 +15,4 @@ class MyClient(discord.Client):
             os.system("python auternos.py 1")
 
 client = MyClient()
-client.run('token')
+client.run(OTQ0NjA0MDQ0MzMxMTg4MjI0.YhEBEg.iqm-VN1y7DjYFxzh_unK1y7s4rs)
